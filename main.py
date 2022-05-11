@@ -43,7 +43,7 @@ def liked_movie():
         "status": "success"
     })
 
-# api to return list of liked movies
+# api para devolver la lista de películas que le gustan
 
 
 
@@ -73,12 +73,12 @@ def did_not_watch_view():
         "status": "success"
     })
 
-# api to return list of popular movies
+# api para devolver películas populares
 
 
 
 
-# api to return list of recommended movies
+# api para devolver una lista de películas recomendadas
 
 
 
